@@ -9,6 +9,12 @@ brew tap DhyaanKanoja11/tap
 brew install lantern
 `
 
+Or install in a single command:
+
+`ash
+brew install DhyaanKanoja11/tap/lantern
+`
+
 ## Documentation
 
-See [https://github.com/DhyaanKanoja11/Lantern](https://github.com/DhyaanKanoja11/Lantern) for documentation and usage.
+See the [official repository](https://github.com/DhyaanKanoja11/Lantern) for full documentation, commands, and security model.
